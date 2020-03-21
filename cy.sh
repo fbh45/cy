@@ -1,17 +1,10 @@
-#!/bin/sh
-cat <<-EOF
-11111111111
-22222222222
-3333333333
-EOF
-    echo
-    red " ===================================="
-    yellow " 1. 一键安装 Trojan"
-    red " ===================================="
-    yellow " 2. 安装 4 IN 1 BBRPLUS加速脚本"
-    red " ===================================="
-    yellow " 3. 一键卸载 Trojan"
-    red " ===================================="
-    yellow " 0. 退出脚本"
-    red " ===================================="
-    echo
+#!/bin/bash
+
+if [ -z $1 ];then
+         echo -e "\033[36mPlease select install menu:\33[0m"
+		 echo "1ankjgnnihao你"
+		 echo "1能看见的人口结构hao你"
+		 echo "1ankjgnnihao你"
+		 echo -e '\033[32m--------------------\033[0m'
+		 exit 0
+fi
