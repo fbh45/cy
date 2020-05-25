@@ -1,0 +1,2581 @@
+Use on Combo
+在走砍上使用
+Min Range
+最小范围
+Max Range
+最大范围
+Use on Harass
+在骚扰上使用
+Auto Use To Interrupt
+自动使用中断
+Whitelist
+白名单
+Loading Champions...
+加载冠军...
+Auto Use On Dash
+仪表自动使用
+Auto Use On Immobile
+固定自动使用
+Use on Flee
+在逃离时使用
+Combo Targets
+走砍目标
+Auto Use When X Enemies
+X敌人自动使用
+Use To KS
+使用于抢杀
+No Spells To Be Interrupted
+无需中断的法术
+Use on JungleClear
+在最后一击上使用
+Use on LaneClear
+在清线上使用
+Use on KS
+抢杀上使用
+Use on JungleClear
+在J清线上使用
+Use in Combo
+在走砍中使用
+Use in Harass
+在骚扰中使用
+Use in JungleClear
+在JungleClear中使用
+Use in LastHit
+在最后一击中使用
+Use in KS
+抢杀中使用
+Combo
+走砍
+Harass
+骚扰
+Harass Key
+骚扰键
+Clear
+清线
+Clear key
+清线键
+R Settings
+R设置
+Use Items: 
+使用物品：
+Use: Ignite
+使用：点燃
+Use: Exhaust
+使用：虚弱
+Use: Smite
+使用：惩戒
+Use: Heal
+使用：治疗
+Use: Zhonya
+使用：中亚
+Use: Barrier
+使用：屏障
+Use: Cleanse
+使用：净化
+Use: Protobelt
+使用：海克斯科技原型腰带
+Use: Hectech GLP-800
+使用：海克斯科GLP-800
+Use: Redemption
+使用：救赎
+Use: Hextech Gunblade
+使用：海克斯科技枪刃
+Use: Blade Of The Ruined King
+使用：破败王者之刃
+Use: Solari
+使用：钢铁烈阳之匣
+Use: Youmus
+使用：幽梦之灵
+Use: Righteous Glory
+使用：正义荣耀
+Recache Rate
+调整率
+Value
+值
+Drawings
+图纸
+Draw Q range
+绘制Q范围
+Enabled
+启用
+Width
+宽度
+Color
+颜色
+Draw E range
+绘制E范围
+Combo key
+走砍键
+Lasthit
+最后一击
+UseItems
+使用物品
+Use Cutlass/Botrk
+使用 比尔吉沃特弯刀/破板王者之刃
+Tiamat/Titcan/Ravenous
+提亚马特/贪欲九头蛇
+Yoomus GhostBlade
+幽梦之灵
+Ignite
+点燃
+Use W2 Gap Close
+使用W2间隙关闭
+Use R2 Gap Close
+使用R2间隙闭合
+Min: energy
+最小能量
+Draw  E range
+绘制E范围
+Draw W range
+绘制W范围
+Draw R range
+绘制R范围
+Q Settings
+Q设置
+AutoQ
+自动Q
+Use R on X targets
+在X目标上使用R
+Auto R X Enemies
+自动R X敌人
+RUN NINJA MODE (Flee)
+运行突进模式(逃离)
+WindWall Settings
+风墙设置
+Wind Wall Spells
+风墙法术
+Use W on: 
+使用W：
+Draw Real E range
+绘制真实E范围
+Smite Targets
+惩戒目标
+Use Smite on:
+使用惩戒:
+Smite Manager
+惩戒管理
+Jump Back W/ Ward or Minion
+W 队友 或守卫
+Enable
+启用
+Insec
+回旋踢
+Ward Jump
+摸眼
+X Enemies Knock up to R
+敌人数到R
+Use Smite on: 
+使用惩戒
+Built in Target Selector
+内置目标选择器
+Target Selector
+目标选择器
+Zhonya
+中亚
+SAVE MY ASS WITH ZHONYA
+使用中亚
+Move Max Dagger Range
+移动最大匕首射程
+Move To Daggers
+移动到匕首
+E ON Daggers only
+只E匕首
+Dagger Settings
+匕首设置
+Killsteal
+斩杀
+UseQ
+使用Q
+UseW
+使用W
+UseE
+使用E
+Draw Long E range
+绘制长E范围
+Lasthit key
+最后一击键
+KillSteal
+斩杀
+R KS on: 
+R 抢杀
+Use W on X minions [Not Working]
+在X小兵身上使用W [不工作]
+W [Not Working]
+W [不工作]
+Use Q on X minions
+使用Q清线
+Only Pick one of these (Prefered)
+只选择其中之一(最好)
+Combo1 - Ult First
+连招1
+Combo2 - Legit Talon Combo
+连招2
+Auto/Misc
+自动/杂项
+AA Weave + Q
+AA 组合+Q
+Auto Off E w/ notihng around
+自动关闭Ew /无任何“
+Auto Q
+自动Q
+Only Auto Q on CC/Recall/Still target
+仅CC / Recall / Still目标上的自动Q
+Min. Mana for E
+释放E最小法力值
+Min. Mana For Q
+释放Q最小法力值
+LaneClear
+跟踪
+Mana Manager
+法力管理
+Enabled Minimap Draw
+启用迷你地图绘制
+Enabled List
+启用列表
+Show Kill List
+显示杀戮名单
+AutoE Immobile
+自动释放E
+Q Passive Toggle
+Q被动触发
+Misc
+杂项
+Min. Mana for W
+释放W最小法力值
+Min. Mana For Q
+释放Q最小法力值
+Min Mana %
+法力低于%
+Auto Catch Axes
+自动接斧
+Max Axes To Have
+最大轴数
+Min Mana %
+最低法力
+Use on LastHit
+在最后一击上使用
+Annie
+安妮
+Ashe
+艾希
+Blitzcrank
+布里茨
+Brand
+布兰德
+Braum
+布隆
+Caitlyn
+凯特琳
+Camille
+卡蜜尔
+Cassiopeia
+卡西奥佩娅
+ChoGath
+科加斯
+Corki
+库奇
+Darius
+德莱厄斯
+Diana
+黛安娜：
+DrMundo
+蒙多医生
+Delevin
+德莱文
+Ekko
+艾克
+Elise
+伊莉斯
+Evelynn
+伊芙琳
+Ezreal
+伊泽瑞尔
+Fiddlesticks
+费德提克
+Fiora
+剑姬
+Fizz
+菲兹
+Galio
+加里奥
+Gangplank
+普朗克
+Garen
+盖伦
+Gnar
+纳尔
+Gragas
+古拉加斯
+Graves
+格雷福斯
+Hecarim
+赫卡里姆 
+Heimerdinger
+黑默丁格
+Illaoi
+俄洛伊
+Irelia
+艾瑞利亚
+Ivern
+艾翁
+Janna
+迦娜
+JarvanⅣ
+嘉文四世
+Jax
+贾克斯
+Jayce
+杰斯
+Jhin
+烬
+Jinx
+金克丝
+Kaisa
+卡莎
+Kalista
+卡莉丝塔
+Karma
+卡尔玛
+Karthus
+卡尔萨斯
+Kassadin
+卡萨丁
+Katarina
+卡特琳娜
+Kayle
+凯尔
+Kayn
+凯隐
+Kennen
+凯南
+Khazix
+卡兹克
+Kindred
+千珏
+Kled
+克烈
+Kog Maw
+克格莫
+LeBlanc
+乐芙兰
+Lee sin
+李青
+Leona
+蕾欧娜
+Lissandra
+丽桑卓
+Lucian
+卢锡安
+lulu
+璐璐
+Lux
+拉克丝
+Malphite
+墨菲特
+Malzahar
+玛尔扎哈
+Maokai
+茂凯
+Yi
+易
+MissFortune
+厄运小姐
+Monkey king
+孙悟空
+Mordekaiser
+莫德凯撒
+Morgana
+莫甘娜
+Nami
+娜美
+Nasus
+内瑟斯
+Nautilus
+诺提勒斯
+Nidalee
+奈德丽
+Nocturne
+魔腾
+Nunu
+努努
+Olaf
+奥拉夫
+Orianna
+奥莉安娜
+Ornn
+奥恩
+Pantheon
+潘森
+Poopy
+波比
+Quinn
+奎因
+Rakan
+洛
+Rammus
+拉莫斯
+RekSai
+雷克塞
+Renekton
+雷克顿
+Rengar
+雷恩加尔
+Rivan
+瑞文
+Rumble
+兰博
+Ryze
+瑞兹
+Sejuani
+瑟庄妮
+Shaco
+萨科
+Shen
+慎
+Shyvana
+希瓦娜
+Singed
+辛吉德
+Sion
+赛恩
+Sivir
+希维尔
+Skarner
+斯卡纳
+Sona
+娑娜
+Soraka
+索拉卡
+Swain
+斯维因
+Syndra
+辛德拉
+TahmKench
+塔姆
+Taliyah
+塔莉垭
+Talon
+泰隆
+Taric
+塔里克
+Teemo
+提莫
+Thresh
+锤石
+Tristana
+崔丝塔娜
+Trundle
+特朗德尔
+Tryndamere
+泰达米尔
+Twisted Fate
+崔斯特
+Twitch
+图奇
+Udyr
+乌迪尔
+Urgot
+厄加特
+Varus
+韦鲁斯
+Vayne
+薇恩
+Veigar
+维伽
+Velkoz
+维克兹
+Vi
+蔚
+Viktor
+维克托
+Vladimir
+弗拉基米尔
+Volibear
+沃利贝尔
+Warwick
+沃里克
+Xayah
+霞
+Xerath
+泽拉斯
+XinZhao
+赵信
+Yasuo
+亚索
+Yorick
+约里克
+Zac
+扎克
+Zed
+劫
+Ziggs
+吉格斯
+Zilean
+基兰
+Zoe
+佐伊
+Zyra
+婕拉
+Aatrox
+亚托克斯
+Ahri
+阿狸
+Akali
+阿卡丽
+Alistar
+阿利斯塔
+Amumu
+阿木木
+Anivia
+艾尼维亚
+Bard
+巴德
+Azir
+阿兹尔
+AurelionSol
+奥瑞利安·索尔
+KogMaw
+克格莫
+Cursor Pos
+光标位置
+Radius
+半径
+Tiamat
+提亚马特
+Ravenous Hydra
+贪欲九头蛇
+Titanic Hydra
+巨型九头蛇
+Hextech Protobelt-01
+海克斯科技原型腰带-01
+Hextech GLP-800
+海克斯科技GLP-800
+Hextech Gunblade
+海克斯科技枪刃
+Blade of the Ruined King
+破败王者之刃
+Bilgewater Cutlass
+比尔吉沃特弯刀
+Total Biscuit of Everlasting Will
+活力夹心饼干
+Banner of Command
+号令之旗
+Talisman of Ascension
+陈旧的飞升护符
+Riven
+锐雯
+Wukong
+孙悟空
+Pyke
+派克
+MasterYi
+易
+Draven
+德莱文
+Danger Level
+危险等级
+Use Spell
+使用法术
+Evading Spells
+逃避法术
+Danger Level
+危险等级
+Extra Radius
+额外半径
+%HP To Dodge Spell
+%HP要躲闪法术
+Enable Evade
+启用逃避
+Dodge Spells
+躲避法术
+Dodge Only Dangerous
+只躲闪有危险
+Spell Settings
+法术设置
+Dodge Arrow Color
+躲闪箭头颜色
+Enemy in distance < X (700 = always ON)
+距离敌人<X（700 =始终开启）
+AntiMelee - isfacing and distance < enemy melee range
+反击-面向和距离<敌人的近战范围
+Use Ignite
+使用点燃
+Use E
+使用E
+Use W
+使用W
+[Harass Manager]
+[骚扰管理]
+[R Manager]
+[R管理]
+[Combo Manager]
+[走砍管理]
+Hitchance
+命中率
+Use R Harass
+使用R 骚扰
+Use Q Harass
+使用Q骚扰
+minimum enemy hp
+最小的敌人生命值
+Use W Harass
+使用W骚扰
+[HP Setting]
+[生命值设置]
+Stopwatch
+秒表
+Seraphs Embrace
+炽天使之拥
+Locket of the Iron Solari
+钢铁烈阳之匣
+Redemption
+救赎
+Mercurial Scimittar[AntiCC]
+水银弯刀[预防]
+Botrk & Ornn Botrk & Cutlass
+破败王者之刃
+QSS & Mercurial Scimittar
+水银弯刀
+TargetSelector DamageType
+目标伤害类型
+Jungle Key
+清野键
+LaneClear Key
+清线键
+Flee Key
+逃离键
+Attack Heroes
+攻击英雄
+MyHero Attack Range
+我的英雄攻击范围
+Hold Radius
+保持半径
+Enemy Attack Range
+敌人攻击范围
+Spell Manager
+法术管理
+Spells between attacks
+攻击之间的法术
+Block if is attacking
+如果正在攻击，则阻止
+Selected Target
+选定目标
+Stun - sona r
+眩晕  -  娑娜 r
+Snare - xayah e
+倒钩  -  霞 e
+Knockup - yasuo q3
+击飞  -  亚索 q3
+Should Wait Time
+应该等待时间
+Random
+随机
+Extra Cursor Delay
+额外光标延迟
+Player Attack Only Click
+仅限玩家攻击单击
+Almost LastHitable Minion
+小兵最后一击
+Humanizer
+人性化
+Gamsteron Items
+游戏道具
+Extra Windup
+额外的结束
+MyHero Shield+Heal Items
+我的英雄盾+治疗物品
+Zhonya's
+中娅沙漏
+Edge of Night
+夜之锋刃
+Quicksilver Sash[AntiCC]
+水银饰带[预防]
+Mikael's Crucible[AntiCC]
+米凯尔的坩埚[预防]
+AutoUse Stopwatch or Zhonya on ZedUlt
+自动使用秒表或中亚沙漏
+Ally Shield+Heal Items
+盟友盾+治疗物品
+[AllyHP]
+盟友生命值
+Randuin's Omen
+兰顿之兆
+Auto Randuin's Omen[Targets]
+自动使用兰顿之兆[目标]
+Righteous Glory
+正义荣耀
+Auto Righteous Glory[Targets]
+自动使用正义荣耀[目标]
+Twin Shadows
+双生暗影
+Twin Shadows[MinCastDistance]
+双生暗影[最小距离]
+Twin Shadows[MaxCastDistance]
+双生暗影[最大距离]
+Potions
+药水
+Potions Enabled
+药水启用
+Health Potions
+生命药水
+Biscuit
+饼干
+Refillable Potion
+复用型药水
+Corrupting Potion
+腐败药水
+Hunter's Potion
+猎人药水
+Use if health is below:
+如果健康水平低于：
+Summoner Spells
+召唤师技能
+SummonerHeal
+召唤者
+Heal Self
+治愈自我
+Heal Ally
+治愈盟友
+Ally HP:
+盟友生命值:
+SummonerBarrier
+屏障
+Use Barrier
+使用屏障
+Self HP:
+自我生命值:
+SummonerExhaust
+虚弱
+Use Exhaust
+使用虚弱
+Target HP:
+目标生命值
+SummonerCleanse
+净化
+Use Cleanse
+使用净化
+SummonerIgnite
+引燃
+TargetHP or KillSteal
+目标生命值或杀死
+TargetHP:
+目标生命值:
+PussyAhri
+阿狸
+Combo Logic
+走砍逻辑
+Ult Settings
+相应的设置
+On/Off Ult Logic
+开/关相对应逻辑
+Ult Logic
+相应的逻辑
+AutoUlt incomming CCSpells
+自动相对应法术
+CCSpell List
+法术名单
+Min Mana to Harass
+最小法力骚扰
+Min Mana to Clear
+最小法力清除
+Min Mana to JungleClear
+野区最小法力清除
+Hitchance[Q]
+命中率[Q]
+Hitchance[W]
+命中率[W]
+Hitchance[E]
+命中率[E]
+Draw[Q]
+绘制[Q]
+Draw[W]
+绘制[W]
+Draw[E]
+绘制[E]
+DmgHPbar+KillableText[if all Spells learned]
+DmgHPbar + KillableText [如果所有法术都学会了]
+PussyCassio
+卡西奥佩娅
+Minimum duration - in ms
+最短持续时间 - 毫秒
+Enemies Around - Count
+周围的敌人 - 数量
+Enemies Around - Distance
+周围的敌人 - 距离
+Slow Settings
+慢设置
+Maximum 
+最大值
+Priorities
+优先级
+Only Selected
+仅限选定
+Hold position button
+按住位置按钮
+LastHitable Minion
+最后攻击的小兵
+Buff Types
+增益类型
+Enemy in distance > X
+距离上的敌人>X
+On Fleeing Target
+逃离目标
+Only Orb[attack] Target
+只攻击目标
+Smite Blue Buff
+惩戒蓝Buff
+Smite Red Buff
+惩戒红Buff
+Smite Dragon
+惩戒小龙
+Smite Herald
+惩戒峡谷先锋
+Smite Baron
+惩戒男爵
+Draw Smite Toggle State
+绘制惩戒状态
+Toggle Enable Key
+触发启用键
+Auto Smite Minions
+自动惩戒小兵
+Mark Crab
+标记迅捷蟹
+Mark Krugs
+标记石甲虫
+Mark Baron
+标记男爵
+Mark Herald
+标记峡谷先锋
+Mark Dragon
+标记小龙
+Mark Blue Buff
+标记蓝Buff
+Mark Red Buff
+标记红Buff
+Mark Gromp
+标记魔沼蛙
+Mark Wolves
+标记暗影狼
+Mark Razorbeaks
+标记锋喙鸟
+Smite Gromp
+惩戒魔沼蛙
+Smite Wolves
+惩戒暗影狼
+Smite Razorbeaks
+惩戒锋喙鸟
+Smite Krugs
+惩戒石甲虫
+Smite Crab
+惩戒迅捷蟹
+Auto Smite Heroes
+自动惩戒英雄
+Smite Logic
+惩戒逻辑
+Use Q If Hit X Minion 
+使用Q如果命中X 小兵
+Use Q
+使用Q
+Manual R 
+手动R
+Use R 
+使用R
+Q Mana
+Q 法力
+W Mana
+W 法力
+E Mana
+E 法力
+R Mana
+R 法力
+Enable Drawings
+启用绘图
+Draw Text
+绘制文字
+Draw Lines
+画线
+Min HP
+最小HP
+PussyZyra
+婕拉
+Auto[E]on Immobile
+自动[E]在静止状态下
+[W] Rampant Growth
+[W] 狂野生长
+[R] Stranglethorns
+[R] 绞杀之藤
+Use[R] Killable Target
+使用[R]可杀死目标
+Use[R]Immobile Targets > 2
+使用[R]固定目标>2
+[E] + [Q]
+[E] + [Q]
+[W]+[R]if Killable Enemy in Ally range
+[W]+[R]如果盟军范围内有可杀死的敌人
+[R]if Bounded Ally
+[R]如果有界盟友
+[R]if not Bounded Ally
+[R]如果不是有界盟友
+Use Q Combo
+走砍使用Q
+Use E Combo
+走砍使用E
+Use E Harass
+骚扰使用E
+GSO Project
+走砍设置
+Hex Gunblade
+海克斯科技枪刃
+Last Hittable Minions
+最后一个被攻击的小兵
+Latency
+延迟
+Disarm: lulu w
+变形 璐璐 w
+Blind: teemo q
+致盲 提莫 q
+Knockback: alistar w
+击退 阿利斯塔 w
+Taunt: rammus e
+嘲讽 拉莫斯 e
+Charm: ahri e
+魅惑 阿狸 e
+Fear: fiddle q
+恐惧 费德提克 q
+Knockup: yasuo q3
+击飞 亚索 q3
+Supress: warwick r
+压制 沃里克 r
+Snare: xayah e
+倒钩 霞 e
+Stun: sona r
+眩晕 娑娜 r
+Slow: nasus w
+减速 内瑟斯 w
+Extra WindUpTime
+额外结束时间
+Move Around Targets
+移动目标
+Movement Delay
+运动延迟
+Fast Kiting
+快速的风筝
+Attack Resetting
+攻击重置
+Attack Target Key
+快捷指定攻击键
+Attack Target Key Use
+攻击目标键使用
+General
+一般
+Hold Key
+保持键
+Sort Mode
+排序模式
+Only Selected Target
+仅选定目标
+Cursor Delay
+光标延迟
+Enemy AutoAttack Range
+敌人自动攻击范围
+AutoAttack Range
+自动攻击范围
+Cursor
+光标
+Anti Melee
+反战
+Hero Health % < X
+英雄健康％<X
+Target Distance < X
+目标距离<X
+Flee Target Distance > X
+逃离目标距离> X
+Flee Target Health % < X
+逃离目标健康％<X
+Buff Duration > X
+增益持续时间> X
+Enemies Distance < X
+敌人距离<X
+Enemies Count
+敌人数
+Items
+项目
+Stick To Target: Only Melee
+坚持目标：只有近战
+Random Humanizer
+鼠标点击频率
+Gamsteron Twitch
+图奇
+Gamsteron Morgana
+莫甘娜
+Gamsteron Karthus
+卡尔萨斯
+Gamsteron KogMaw
+克格莫
+Gamsteron Vayne
+薇恩
+Gamsteron Brand
+布兰德
+Gamsteron Ezreal
+伊泽瑞尔
+Gamsteron Varus
+韦鲁斯
+Gamsteron Jhin
+烬
+Hitchance [R]
+命中率[R]
+[E] + [Q]
+[E] + [Q]
+[Q]if Bounded Ally[in work]
+[Q]如果有盟友[使用]
+[Q]if not Bounded Ally
+[Q]如果不是盟友
+Use[R]min Immobile Targets
+使用[R]最小固定目标
+AutoR on Immobile
+自动R固定
+MinHP Ally to Heal
+最小HP治疗盟军
+[W]+[E]Auto Heal Ally
+[W]+[E]自动治疗盟军
+MinHP Self to Heal
+最小HP自我治疗
+[E]Auto Heal self
+[E]自动自我治疗
+Auto[E]
+自动[E]
+MinHP BoundedAlly to switch
+最小HP盟友使用
+[W]Auto Switch Ally
+[W]自动使用给盟友
+MinHP self for search Ally
+最小HP盟友寻找
+[W]Safe self[Auto search Tankist Ally]
+[W]自我的安全[自动搜索坦克是盟友]
+PussyYuumi
+悠米
+Hitchance[R]
+命中率[R]
+Block AA in Combo [?]
+在走砍中阻止AA[?]
+Min Amount to hit R
+最小值达到R
+Use Panic R and Ghost
+使用恐惧R和幽灵疾步
+Min HP % to Panic R
+最低HP％恐惧R
+UseE only poisend
+仅使用中毒
+Min Minions to hit W
+命中的最小值W
+Auto E Toggle Key
+自动按E键
+Use E[poisend or Lasthit]
+使用E [中毒或最后命中]
+EngageKill 1vs1
+发动杀戮 1 vs 1
+PussyEkko
+艾克
+[W] Deadly Spines
+[W]致命的刺
+Minimum Targets
+最低目标
+[W]+[E] Stun
+[W]+[E]眩晕
+[R] Deadly Spines
+[R]致命的刺
+[Q] Deadly Spines
+[Q]致命的刺
+[E] Grasping Roots
+[E]抓住
+Kill in Twin Range
+杀死双范围
+Draw [Q] Range
+画[Q]范围
+Draw [W] Range
+画[W]范围
+PussyKayle
+凯尔
+HP Self/Ally
+HP自身/盟友
+min. Mana
+最小法力
+[Q] Radiant Blast
+[Q] 耀焰冲击
+[E] Starfire Spellblade
+[E] 星火符刃
+Ult self
+大招自身
+Ult Ally
+大招盟友
+HP Self / Ally
+HP 自我/盟友
+Lasthit[Q] Radiant Blast
+最后一击[Q]耀焰冲击
+Lasthit[E] Starfire Spellblade
+最后一击[E]星火符刃
+Hextech Gunblade + [Q]
+海克斯科技枪刃 + [Q]
+Draw [R] Range
+画[R]范围
+PussyKalista
+卡莉丝塔
+Auto[Q]Immobile Target
+自动[Q]固定目标
+[Q]Transferring Stacks Minion to Enemy
+[Q]将叠加小兵转移到敌人身上
+Auto[R]Safe Ally
+自动[R]誓约盟友
+min Hp Ally or Self
+最小Hp盟友或自己
+AutoE ToggleKey[AutoE Minions always]
+自动触发E键[自动E小兵]
+Auto[E]if Enemy leave Range
+如果敌人离开射程 则自动[E]
+min[E]Stacks leaved Enemy
+最小[E]叠加离开敌人
+min[E]Stacks
+最小[E]层数
+[E]LastHit
+[E]最后一击
+[E] LastHit
+[E]最后一击
+Champs[Blitzcrank, Skarner, TahmKench, Sion]
+英雄[布里茨，斯卡纳，塔姆，赛恩]
+WomboCombo
+组合
+Kalista min.Hp to UseR
+卡莉斯塔最小HP使用R
+[Q] Null Sphere
+[Q]虚无法球
+[W] Nether Blade
+[W]虚空之刃
+Auto[W] Nether Blade
+自动[W]虚空之刃
+[E] Force Pulse
+[E]能量脉冲
+[R] Riftwalk
+[R] 虚空行走
+[Q] LastHit Minions
+[Q] 最后一击小兵
+Poke[R],[E],[Q]
+突进[R],[E],[Q]
+[E] if x minions
+[E]如果是X小兵
+[Q] LastHit
+[Q]最后一击
+[W] LastHit
+[W]最后一击
+[R] LastHit[Only if not Enemys near]
+[R]最后一击[只有不靠近的敌人]
+[R] LastHit if x minions
+[R]最后一次命中如果是X小兵
+[Q]then[R]
+[Q]然后[R]
+[R]then[Q]
+[R]然后[Q]
+No blockable Spell found
+找不到可阻挡的法术
+Auto Escape Menu
+自动逃跑菜单
+AutoEscape[R] to Ally or Tower
+自动逃生[R]到盟友或塔
+Min Life to Escape
+最短逃生时间
+Manual Escape Menu
+手动逃跑菜单
+Use[R] to Ally or Tower [EscapeKey]
+使用[R]以盟友或塔台[逃跑键]
+Escape key
+逃生键
+Use[R] to Mouse.Pos [EscapeKey]
+使用[R]鼠标位置[逃跑键]
+Draw Killable on Target and Minimap
+在目标和迷你地图上绘制可杀死的
+PussyLeeSin
+李青
+Auto[Q] + Auto[W]SavePos
+自动[Q] +自动[W]保护位置
+Safe Ally/Self
+安全盟友/自我
+min Hp Self or Ally
+最小HP自己或盟友
+Auto[R] safe your Life
+自动[R]保护自己
+Gapclose[WardJump]
+间隙近距保护
+Gapclose Settings
+间隙距离设置
+MinCastDistance if not Ready[Q]
+未准备好时的最小距离[Q]
+MaxCastDistance if not Ready[Q]
+未准备好时的最大距离[Q]
+Min Energy to Harass
+最小能量到骚扰
+min selfHp Use[W]
+最小自我HP使用[W]
+Use[E] min Minions
+使用[E]最小值
+Min Energy to Clear
+最小能量清除
+Min Energy to JungleClear
+最小能量到野区清怪
+[Q]+[R]
+[Q]+[R]
+Steal Dragon
+偷龙
+Steal Baron
+窃取男爵
+Steal Herald
+窃取峡谷先锋
+Activate Key
+激活键
+Insec Mode 1
+回旋踢模式1
+ToggleKey Near / Far Insec
+触发键 近/最远 回旋踢
+ToggleKey Fast / Burst Insec
+触发键 快速/突进回旋踢
+Use Tiamat / Hydra BurstMode 
+使用提亚马特 /巨型九头蛇 突发模式
+Insec Activate Key
+回旋踢激活键
+Draw Insec Line / Circle
+绘制回旋踢线/圆
+Draw Option
+绘制选项
+Insec Mode 2
+回旋踢模式2
+WardJump
+保护
+Insec Mode 3
+回旋踢模式3
+If Killable[Q1+E+R+Q2+E2]
+如果可以杀死[Q1+E+R+Q2+E2]
+Draw Killable Text
+绘制可杀死的文本
+Draw [E] Range
+画[E]范围
+PussyLux
+拉克丝
+Auto[W]Ally+Self
+自动[W]盟友+自己
+Auto[E]Immobile Target
+自动[E]固定目标
+[Q] Light Binding
+[Q]光之束缚
+[E] Lucent Singularity
+[E]透光奇点
+Use [E] min Minions
+使用[E]最小值
+[R] Final Spark
+[R] 终极闪光
+AutoR Steal Dragon
+自动R偷龙
+AutoR Steal Baron
+自动R偷男爵
+AutoR Steal Herald
+自动R偷峡谷先锋
+PussyMalzahar
+玛尔扎哈
+[Q] Call of the Void
+[问]虚空召唤
+[W] Void Swarm
+[W] 虚空虫群
+[E] Malefic Visions
+[E] 煞星幻象
+[R] Nether Grasp
+[R] 冥府之握
+Use[E] if MinionHP less then
+使用[E]如果小兵HP小于
+[W] Malefic Visions
+[W] +煞星幻象
+[R] Void Swarm
+[R] +虚空虫群
+Full Combo
+完整组合
+PussyMorgana
+莫甘娜
+Use Self if CC 
+使用自我免控
+Use Ally if CC 
+盟友使用免控
+Ally Settings
+盟友设置
+UseE Self
+使用E自我
+UseE Ally
+使用E盟友
+Track Spells
+跟踪法术
+Spell List
+法术列表
+Auto[W]
+自动[W]
+[Q] Dark Binding
+[Q] 暗之禁锢
+[W]only if not Raedy[Q]
+[W]只有不准备好 [Q]
+Ultimate Settings
+终极设置
+[R] Dark Binding
+[R] +暗之禁锢
+Use [R] min Targets
+使用[R]最小目标
+LastHit[Q] Dark Binding
+最后一击[Q]暗之禁锢
+[W] Tormented Soil
+[W] 折磨之影
+Use [W] min Minions
+使用[W]最小值
+Draw Killable Targets
+画出可杀死的目标
+PussyMordekaiser
+莫德凯撒
+Pull Enemys under Tower
+把敌人拉到塔下
+AutoW
+自动W
+Minimum Health
+最低健康
+[E]Minimum Targets
+[E]最小目标
+Draw [Q]Range
+画[Q]范围
+Draw [R]Range
+画[R]范围
+Draw [E]Range
+画[E]范围
+PussyNeeko
+妮蔻
+Auto[E] 2-5 Targets
+自动[E]2-5个目标
+[Q] Blooming Burst
+[Q]盛开花种
+HitChance[Q] [1]=low [5]=high
+命中几率[Q][1]=低[5]=高
+[E] Tangle-Barbs
+[E] 缠结倒刺
+HitChance[E] [1]=low [5]=high
+命中几率[E][1]=低[5]=高
+Check NeekoRange
+检查妮蔻范围
+[R]+[W]
+[R]+[W]
+min. Targets
+最小目标
+Check AllyRange
+检查盟军范围
+Flash+[R]+[W] 2-5Targets
+闪现+[R]+[W]2-5目标
+Ult Immobile
+Ult 固定
+Flash+[R]+[W]
+闪现+[R]+[W]
+min. Immobile Targets
+最小固定目标
+[R]+[W] If Killable
+[R]+[W]如果可以杀死
+LastHit[Q] Minions
+最后一击[Q]小兵
+min. Minions
+最小值
+LastHit[Q] Blooming Burst
+最后一击[Q] 盛开花种
+LastHit[Q] min Minions
+最后一击[Q]最低小兵
+[E]+[Q]
+[E]+[Q]
+Protobelt all UltSettings
+原形腰带所有默认设置
+Auto[W] Spawn Clone
+自动[W]生成克隆
+Min Life to Spawn Clone
+产生克隆的最小生命
+Auto[W] Spawn Clone Incomming Gank
+自动[W]生成克隆 gank
+PussyNidalee
+奈德丽
+Q: Javelin Toss
+Q：标枪投掷
+W: Bushwhack
+W：丛林伏击
+E: Primal Surge
+E：野性奔腾
+Q: Takedown
+Q: 推倒
+W: Pounce
+W：猛扑
+E: Swipe
+E：挥击
+R: Aspect of the Cougar
+R：美洲狮
+Draw damage on HPbar
+画出低HP
+Draw Q
+画Q
+Hitchance[Q Human]
+命中率[Q 人类]
+Hitchance[W Human]
+命中率[W 人类]
+Hitchance[W Cougar]
+命中率[W 美洲狮]
+PussyRakan
+洛
+AutoE Immobile Ally
+自动E不动的盟友
+Min AllyHP
+最小盟友HP
+Draw Xayah[E]Range
+画 霞[E]范围
+Draw [W]Range
+画出[W]范围
+PussyRyze
+瑞兹
+[E]+[Q] kill Minion
+[E]+ Q]杀死小兵
+AutoE+W on CC
+自动E+W 团控
+PussySoraka
+索拉卡
+Auto Heal Ally
+自动治疗盟友
+Minimum Health Ally
+最低健康盟友
+Min Mana
+最小法力
+AutoSafe priority Ally
+自动安全优先盟友
+Minimum Health priority Ally
+最低健康优先级盟友
+PussySona
+娑娜
+Enable Auto Health
+启用自动运行治疗
+Heal my HP Percent
+治愈我的HP百分比
+Heal AllyHP Percent
+治愈盟友HP百分比
+Enable Auto R
+启用自动R
+Min enemies hit
+最小的敌人击中
+Use Ult if AllyHP Percent below 
+如果盟友HP百分比低于使用大招
+PussySylas
+塞拉斯
+Safe Life
+安全生命
+Self Hp
+自身Hp
+Auto Pulling Ult
+自动偷取大招
+Target Settings
+目标设置
+Pull Ult: 
+偷大招：
+[Q] Chain Lash
+[Q] 锁链鞭击
+[E] Abscond / Abduct
+[E] 潜掠/强掳
+[W] Kingslayer
+[W] 弑君突刺
+Auto E+E2+SkillShotUlt
+自动 E + E2 + 大招
+E+E2+Ult List
+E+E2+大招列表
+Use HEAL+Shield Ults
+使用治疗+护盾大招
+MinHP Heal+Shield
+最小HP治疗+护盾
+Use AOE Ults
+使用范围大招
+MinTargets AOE Ults
+最小目标范围大招
+Use DMG Ults killable Enemy
+使用大招杀死敌人
+LastHit [Q] min Minions
+L最后一击[Q]最低小兵
+[Q] min Minions
+[Q]最小值
+PussyTristana
+崔丝塔娜
+AutoQ when Explosive Charge
+自动Q爆炸装药时
+(R)Finisher
+(R)毁灭射击
+KS R on: 
+抢杀 R：
+Draw Kill Ulti Gapclose 
+绘制大招可杀距离
+Custom spellcast delay
+自定义施法延迟
+PussyVeigar
+维迦
+E Mode
+E模式
+Auto Q Toggle
+自动Q开关
+Auto Q Farm
+自动Q小兵
+W hits x minions
+W击中X小兵
+Min mana to use Q
+使用Q的最小法力
+Min mana to use W
+使用W的最小法力值
+PussyWarwick
+沃里克
+Q: Jaws of the Beast
+Q:野兽之口
+W: Blood Hunt
+W：鲜血追猎
+E: Primal Howl
+E：远祖嗥叫
+Toggle: E Insta -- Delay Key
+触发:E延迟键
+R: Infinite Duress
+R：无尽束缚
+Use hydra
+使用九头蛇
+Draw Killable
+画出可杀死
+Draw RRange
+绘制R范围
+PussyXerath[Reworked LazyXerath] 
+泽拉斯
+Harass | Mixed
+骚扰|混合
+LaneClear | JungleClear
+清线|清野
+Use R
+使用R
+Start R manually
+手动启动R
+Auto R blacklist
+自动R黑名单
+Safety R stack
+安全R
+Delay between target switch
+目标开关之间的延迟
+Delay between casts
+两次浇注之间的延迟
+Use Farsight Alteration
+使用远距改变
+On key press (close to mouse)
+按键时（靠近鼠标）
+ [Q]Mana-Manager
+[Q]法力管理器
+ [W]Mana-Manager
+[W]法力管理器
+ [E]Mana-Manager
+[E]法力管理器
+min Minions Use Q
+最低小兵使用Q
+min Minions Use W
+最低小兵使用W
+Use Q to killsteal
+使用Q来杀死
+Use W to killsteal
+用W来杀死
+AutoUse Q,W,R if killable
+自动使用Q，W，R,如果可以杀死
+Prediction Settings
+预测设置
+Use E on gapcloser
+在间隙闭合器上使用E
+Draw R range on MiniMap
+在迷你地图上绘制R范围
+Change the Key[COMBO] in your orbwalker!
+更改你的奥宝行者中的键[组合键]！
+Blacklist: 
+黑名单：
+PussyXinZhao
+赵信
+UseW if Target Flee
+目标逃跑时使用W
+Use W when X minions
+当X小兵使用W
+UseE KS
+使用E抢杀
+Orbwalker
+走砍
+Keys
+按键
+Qss
+水银饰带
+Min
+最小
+Max
+最大
+Botrk
+破败王者之刃
+LaneClear Heroes
+线上清除英雄
+Draw Spell
+画法术
+Evade Mode
+逃避模式
+Evading Spells:
+逃避法术：
+Dodgeable Spells:
+可躲避的法术：
+Detected Spell Color
+检测到的法术颜色
+Safe Position Color
+安全位置颜色
+Misc Settings
+其他设置
+Stop Dodging
+停止躲避
+Main Settings
+主要设置
+Draw Spells
+画法术
+Draw Evade Status
+绘制躲避状态
+Draw Safe Position
+画出安全的位置
+Maximum Evade Points
+最大逃避点
+Separator Value
+分隔值
+Core Settings
+核心设置
+Limit Detection Range
+极限检测范围
+Extend Evade Position
+延伸躲避位置
+Angle Search Step
+角度搜索步骤
+Extended Safe Position
+扩展安全位置
+Limited Detection Range
+检测范围有限
+JustEvade External 
+躲避设置
+Dodge Spell
+躲避法术
+Cleanse
+净化
+Auto Level Up
+自动升级
+Skill Order
+技能顺序
+Start at level
+从几级开始
+Super important ! latency/ping/ms
+超级重要！延迟/ping/ms
+Gamsteron
+走砍设置
+Enable Smooth Evading
+启用平滑躲避
+Circle Segments Quality
+圆弧段质量
+Diagonal Search Step
+对角线搜索步骤
+Diagonal Points Count
+对角线点数
+Safety Check Sensitivity
+安全检查灵敏度
+Enable Missile Detection
+启用导弹检测
+Debug Evade Points
+调试躲避点
+Force To Dodge
+强制闪避
+FOW Detection
+FOW检测
+Use Flash
+使用闪现
+PussyUtility
+CD计时
+Interface
+界面
+Draw Interface
+绘制界面
+Cd Tracker Left or Right Side
+CD界面在左侧或右侧
+X
+X
+Y
+Y
+Movement Circle
+运动圈
+Draw Circle
+绘制圈
+Draw last waypoint
+绘制最后一个航路点
+On Screen
+在屏幕上
+On Minimap
+在小地图
+Gank Alert
+Gank 警报
+Detection Range
+检测范围
+FOW Gank Alert
+FOW Gank 警报
+Predict Recall Position
+预测回城位置
+Cooldown Tracker
+冷却时间跟踪器
+Cd Tracker Interace or Champion
+CD 计时界面位置
+Champion Pos: [X]
+位置：[X]
+Champion Pos: [Y]
+位置：[Y]
+Show Enemy Spell CD [Interface]
+显示敌人的法术CD [界面]
+Show Enemy Summoner CD [Interface]
+显示敌人召唤师技能CD [界面]
+Jungle Timers
+丛林定时器
+Text Size
+字体大小
+Pull Targets
+拉目标
+Auto Pull
+自动拉
+Use on Incoming CC
+在预期时使用控制
+Mana Limit
+法力限制
+Use to hit # enemies (Combo)
+用于打击敌人（走砍）
+Hit Immobile Targets
+击中固定目标
+[R] Death from Below
+[R]涌泉之恨
+[E] Phantom Undertow
+[E]魅影浪洄
+Skills
+技能
+[Q] Bone Skewer
+[Q]透骨尖钉
+Minimum Mana
+最小法力
+[W] Ghostwater Dive
+[W] 幽潭潜行
+Only Use In Combo
+仅在走砍中使用
+AA Reset (Combo)
+AA重置（走砍）
+Use Only In Combo
+仅在走砍中使用
+Auto Hit Vitals
+自动命中破绽
+Dodge Danger Level (Auto)
+闪避危险等级（自动）
+Dodge Danger Level (Combo) 
+闪避危险等级（走砍）
+Auto Reflect
+自动格挡
+AA Reset
+AA重置
+[Q] Lunge
+[Q]破空斩
+[W] Riposte
+[W]劳伦特心眼刀
+[E] Bladework
+[E]夺命连刺
+[Q] Orb of Deception
+[Q]欺诈宝珠
+[W] Fox Fire
+[W]妖异狐火
+[E] Charm
+[E]魅惑妖术
+[R] Spirit Rush
+[R]灵魄突袭
+Danger Level (Auto)
+危险等级（自动）
+Danger Level (Combo)
+危险等级（走砍）
+Use Radius
+使用半径
+Auto Cast On Immobile Targets
+对固定目标自动施放
+KS Accuracy
+抢杀精度
+Combo Accuracy
+走砍精度
+Healing
+治疗
+Use Healing Items
+使用治疗物品
+% Life
+％生命
+CC Settings
+控制设置
+Damage
+伤害
+Tiamat/Hydra Usage
+提亚马特/九头蛇
+BOTRK/Gunblade Usage
+比尔吉沃特弯刀/海克斯科技枪刃
+Peel Enemies [Combo]
+虚弱敌人[走砍]
+Exhaust
+虚弱
+Peel Radius
+虚弱半径
+Heal
+治疗
+Combo Only
+仅走砍
+Barrier
+屏障
+Minimum Ally Count
+最小盟友数
+Mikael's Crucible
+米凯尔的坩埚
+Minimum Enemy Distance
+最小距离敌人
+Minimum Target Count
+最小目标数
+Auto Cast
+自动施放
+Cast Without Combo
+施放不带走砍
+Max Cast Distance
+最大施放距离
+Cast Outside Combo Mode
+施放走砍模式
+Summoners
+召唤师
+Use only in Combo
+仅在走砍中使用
+[Q] Sear
+[Q]火焰烙印
+[W] Pillar of Flame
+[W]烈焰之柱
+[E] Conflagration
+[E]烈火燃烧
+[R] Pyroclasm
+[R]烈焰风暴
+Auto Cast On Enemy Count
+自动施放敌人数
+Auto Harass Targets
+自动骚扰目标
+Auto Cast Mana
+自动施放法力
+Auto Cast On Immobile
+自动固定施放
+Auto Cast Accuracy
+自动施放精度
+Auto Stun
+自动眩晕
+Accuracy
+准确度
+Performance
+性能
+Missile Cache Time
+导弹缓存时间
+Particle Cache Time
+粒子缓存时间
+Buff Cache Time
+增益缓存时间
+Print Damage Warnings
+打印伤害警告
+Print Buff Create
+打印创建的增益
+Print Missile Create
+打印导弹创建
+Print Skill Used
+打印使用技能
+[Q] Noxious Blast
+[Q]瘟毒爆炸
+Auto Accuracy
+自动精度
+[W] Miasma
+[W]剧毒迷雾
+Auto Cast On Target #
+自动施放目标＃
+[E] Twin Fang
+[E]双生毒牙
+Only cast on poisoned enemies
+只施放在中毒的敌人身上
+Only cast on poisoned minions
+只对中毒的小兵施放
+E Last Hit (Toggle)
+E 最后一击（切换）
+[R] Petrifying Gaze
+[R]石化凝视
+Manual Ult Key
+手动大招键
+Range Limit
+范围限制
+Stun Targets
+眩晕目标
+Auto Ult
+自动大招
+Ult on # of enemies
+大招攻击＃个敌人
+Use Auto Attacks In Combo
+使用自动攻击在走砍
+[Q] Mystic Shot
+[Q]秘术射击
+Auto AA Reset
+自动AA重置
+Use in Farm
+清小兵使用
+[W] Essence Flux
+[W]精华跃动
+Use after AA
+AA使用后
+Auto cast on Immobile
+自动固定施放
+[E] Arcane Shift
+[E]奥术跃迁
+Auto Evade CC
+自动躲避控制
+Combo Evade Danger Level
+走砍闪避危险等级
+[R] Trueshot Barrage
+[R]精准弹幕
+Combo Target Count
+走砍目标数量
+Combo Min Enemy Range
+走砍最小敌人范围
+Assist Key
+辅助键
+[Q] Decisive Strike
+[Q]致命打击
+Combo When Distance < X
+走砍距离<X
+[W] Courage
+[W]勇气
+[E] Judgment
+[E]审判
+Cast In Combo
+走砍施放
+[R] Demacian Justice
+[R]德玛西亚正义
+Draw Damage
+绘制伤害
+[Q] H-28G Evolution Turret
+[Q]H-28 G 进化炮台
+Block Skillshots
+封锁技能射击
+[W] Hextech Micro-Rockets
+[W]海克斯科技微型导弹
+[E] CH-2 Electron Storm Grenade
+[E]CH-2电子风暴手雷
+[Q] Tentacle Smash
+[Q]触手猛击
+Auto Cast on Immobile
+在固定自动施放
+[W] Harsh Lesson
+[W]严酷训诫
+Attack Reset
+攻击重置
+Gapclose in Combo
+组合中的间隙闭合
+[E] Test of Spirit
+[E]灵魂试炼
+[R] Leap of Faith
+[R]过界信仰
+Target Count
+目标数量
+[Q] Lay Waste
+[Q]荒芜
+Farm Mana Limit
+清小兵法力上限
+[W] Wall of Pain
+[W]痛苦之墙
+Auto Cast in Combo
+自动转换走砍
+[E] Defile
+[E]亵渎
+Auto Active When Enemy In Range
+敌人在范围内时自动激活
+[R] Requiem
+[R]安魂曲
+Auto Use In Passive (If Will Kill)
+在被动状态下自动使用（如果会杀死）
+Draw Kill Count
+绘制可杀数量
+Combo Key
+走砍键
+[Q] Reckoning
+[Q]耀焰冲击
+Auto Peel Radius
+自动剥离半径
+[W] Divine Blessing
+[W]星界恩典
+Cast Automatically (No Combo)
+自动施放（无走砍）
+[E] Righteous Fury
+[E]星火符刃
+[R] Intervention
+[R]圣裁之刻
+Incoming CC Target Settings
+传入控制目标设置
+Anti Gapcloser Settings
+反Gapcloser设置
+[Q] Glitterlance
+[Q]闪耀长枪
+[W] Whimsy
+[W]奇思妙想
+Auto Peel
+自动剥离
+Target List
+目标列表
+[E] Help, Pix!
+[E]帮忙，皮克斯！
+Shield Targets
+盾目标
+Block On Damage
+伤害格挡
+Auto Shield
+自动盾
+[R] Wild Growth
+[R]狂野生长
+Targets
+目标
+Minimum Incoming Damage
+最小的伤害
+Enemy Count
+敌人数量
+[W] Prismatic Barrier
+[W]曲光屏障
+Minimum Damage
+最小伤害
+Burst Targets
+爆发目标
+Auto Killsteal
+自动杀人
+[Q] Double Up
+[Q]一箭双雕
+Auto Minion Bounce
+自动小兵弹跳
+Require Minion Crit
+需要小兵暴击
+Auto 2X Hero Bounce
+自动2X英雄弹跳
+[W] Strut
+[W]大步流星
+[E] Make it Rain
+[E]枪林弹雨
+Cast on Immobile Targets
+攻击固定目标
+Cast in Combo
+走砍施放
+[Q] Crushing Blow
+[Q]粉碎打击
+[W] Decoy
+[W]真假猴王
+[E] Nimbus Strike
+[E]腾云突击
+[R] Cyclone
+[R]大闹天宫
+Auto on # Enemies
+自动开启#个敌人
+KS
+抢杀
+Auto
+自动
+Skip enemies that have minion collision
+跳过有小兵碰撞敌人
+Use on:
+使用于：
+Combo / Harass
+走砍/骚扰
+Slow
+慢
+Immobile
+不动
+Minimum milliseconds
+最小毫秒
+Use W Combo
+使用W组合
+Enbaled
+启用
+Min minions W Clear
+W清除小兵
+[E] Black Shield
+[E]黑暗之盾
+Use only on incoming CC
+只有传入CC使用
+Use on ally
+对盟友使用
+Use on yourself
+对自己使用
+[R] Soul Shackles
+[R]灵魂镣铐
+>= X enemies near morgana
+> =附近 X敌人
+< X distance enemies to morgana
+<X敌人距离
+Use R Combo
+使用R组合
+[Q] Aqua Prison
+[Q]碧波之牢
+Auto cast on # Enemies
+自动对＃个敌人施放
+[W] Ebb and Flow
+[W]潮冲击之潮
+Target Settings [Bounce]
+目标设置[弹跳]
+Minimum Mana [Bounce]
+最小法力[反弹]
+Target Settings [No Bounce]
+目标设置[无反弹]
+Minimum Mana [No Bounce]
+最小法力[无反弹]
+[E] Tidecaller's Blessing
+[E]唤潮之佑
+Auto Buff Allies
+自动增益盟友
+[R] Tidal Wave
+[R]怒涛之啸
+[Q] Starcall
+[Q]流星坠落
+[W] Astral Infusion
+[W]星之灌注
+W Minimum Health
+W最低健康
+W Minimum Mana
+W最小法力值
+[E] Equinox
+[E]星体结界
+Cast on Enemy #
+施放敌人#
+[R] Wish
+[R]祈愿
+Injured Count Required
+需要受伤人数
+[Q] Threaded Volley
+[Q]石穿
+[W] Seismic Shove
+[W]岩突
+Push Range
+推力范围
+[E] Unraveled Earth
+[E]撒石阵
+Peel Range
+剥离范围
+[Q] Arcanopulse
+[Q]奥能脉冲
+Assist
+助攻
+[W] Eye of Destruction
+[W]毁灭之眼
+[E] Shocking Orb
+[E]冲击法球
+[R] Rite of the Arcane
+[R]奥术仪式
+Cast Speed
+施法速度
+[Q] Bouncing Bomb
+[Q]弹跳炸弹
+[W] Satchel Charge
+[W]定点爆破
+Combo List
+组合列表
+[E] Hexplosive Minefield
+[E]海克斯爆破雷区
+Auto Cast Enemy Count
+自动施放敌人数
+[R] Mega Inferno Bomb
+[R]科学的地狱火炮
+[Q] Timb Bomb
+[Q]定时炸弹
+Stun Accuracy
+眩晕精度
+[W] Rewind
+[W]穿梭未来
+Minimum Cooldown Remaining
+最小冷却时间
+[E] Time Warp
+[E]时光发条
+[R] Chronoshift
+[R]时光倒流
+Minions To Cast
+对小兵
+Auto AA Reset Mode
+自动AA重置模式
+Use On Duel
+决斗时使用
+Duel Targets
+决斗目标
+Use When X Enemies Hit
+当X敌人击中时使用
+Number Of Enemies
+敌人数量
+Use To Interrupt
+使用中断
+Interrupt Targets
+中断目标
+Blacklist
+黑名单
+Auto Use on Immobile
+在固定装置上自动使用
+Positioning Helper
+定位助手
+Combo Mode
+走砍模式
+Harass Mode
+骚扰模式
+Auto Use on Escaping Enemies
+自动使用逃避敌人
+Auto Use on Killable
+自动使用可杀死
+Items Settings
+项目设置
+Use Tiamat
+使用提亚马特
+Use Titanic Hydra
+使用巨型九头蛇
+Use Ravenous Hydra
+使用贪欲九头蛇
+Draw Q Helper Pos
+绘制Q辅助位置
+Duel Settings
+决斗设置
+Use to Catch Axes
+用于接斧
+Prediction Mode
+预测模式
+Use to LastHit
+用于最后一击
+Use to KS
+用于抢杀
+Use When X Enemies
+X敌人时使用
+Harass White List
+骚扰白名单
+Cast Mode
+施放模式
+KillSteal White List
+抢杀白名单
+On Immobile
+在固定
+On Immobile White List
+在固定的白名单上
+HitChance Settings
+命中率设置
+HitChance Info [?]
+命中率信息[?]
+Combo - HitChance
+组合-命中率
+Harass - HitChance
+骚扰-命中率
+Draws
+绘制
+Draw Jungler Info
+绘制野区信息
+Use Bilgewater Cutlass
+使用比尔吉沃特弯刀弯刀
+Use BOTRK
+使用破败王者之刃
+Use Hextech Gunblade
+使用海克斯科技枪刃
+Use Mercurial Scimitar
+使用水银弯刀
+Use Quicksilver Sash
+使用水银饰带
+PussyIrelia
+艾瑞莉娅
+Combo Settings
+走砍设置
+Last[Q]Almost Kill or Kill
+最后[Q]几差点杀死或杀死
+[Q]
+[Q]
+[R]Single Target
+[R]单一目标
+Auto[R] Multiple Enemys
+自动[R]多个敌人
+Multiple Enemys
+多个敌人
+Stack Passive near Target/Minion
+堆叠被动近目标/小兵
+Draw QLogic Text
+绘制Q逻辑文本
+Burst Mode
+突发模式
+Use Burst Mode
+使用突发模式
+Irelia Level to Start Burst
+艾瑞莉娅级开始爆发
+Ninja Mode
+突进模式
+Q on all Marked Enemys
+对所有标记敌人的Q
+Clear Settings
+清除设定
+Clear Mode
+清除模式
+LastHit
+最后一击
+LastHit[Q]
+最后一击[Q]
+Use Hydra/Tiamat
+使用九头蛇/提亚马特
+JungleClear Mode
+野区清除模式
+LastHit Mode
+最后一击模式
+LastHit [Q]
+最后一击[Q]
+LastHit Key
+最后一击键
+AutoQ Mode
+自动Q模式
+Auto LastHit Minion
+自动斩杀小兵
+Auto Q Toggle Key
+自动Q切换键
+Draw On/Off Text
+绘制 打开/关闭 文字
+Harass Settings
+骚扰设置
+[Q] Logic
+[Q]逻辑
+[E]
+[E]
+KillSteal Settings
+抢杀设置
+[W]
+[W]
+[R]
+[R]
+Flee Mode
+逃跑模式
+Flee[Q]
+逃跑[Q]
+AutoE Mode
+自动E模式
+2-5 Enemys stunable
+2-5个敌人晕眩
+AutoW Mode [Test]
+自动W模式[测试]
+Auto[W] Dangerous Spells
+自动[W]危险法术
+Block List
+黑名单
+Drawings Mode
+绘图模式
+Text Pos Settings
+文字位置设置
+Pos: [X]
+位置：[X]
+Pos: [Y]
+位置：[Y]
+GamsteronOrbwalker
+走砍
+Movement Enabled
+已启用移动
+Priorize Last Hit over Harass
+优先考虑最后一次骚扰
+Ping [ms]
+Ping [ms]
+AhriQ-
+阿狸Q-
+CorkiW-
+库奇W-
+EzrealE-
+伊泽瑞尔E-
+FizzE-
+菲兹E-
+GnarE-
+纳尔E-
+KaisaE-
+卡莎E-
+KatarinaW-
+卡特琳娜W-
+KhazixE-
+卡兹克E-
+LucianE-
+卢锡安E-
+ShenE-
+慎E-
+VladimirW-
+弗拉基米尔W-
+AnnieE-
+安妮E-
+EkkoE-
+艾克E-
+GarenQ-
+盖伦Q-
+KarmaE-
+卡尔玛E-
+KennenE-
+凯南E-
+LeblancW-
+乐芙兰W-
+PykeE-
+派克E-
+RivenE-
+瑞文E-
+ShacoQ-
+萨科Q-
+SkarnerW-
+斯卡纳W-
+TryndamereE-
+泰达米尔E-
+ViQ-
+蔚Q-
+YasuoW-
+亚索W-
+Q2 Settings
+Q2 设置
+E Settings
+E设置
+Draw Selected Target
+绘制选定目标
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/Insec%20Mode.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819172317.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/PussyKassadinScriptLogo.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819174855.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/ComboScriptLogo.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819172939.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/BlockSpellsScriptLogo.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819175312.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/EscapeScriptLogo.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819175518.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/HarassScriptLogo.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819175700.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/Clear%2BLasthitScriptLogo.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819175956.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/DrawingsScriptLogo.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819180728.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/KillStealScriptLogo.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819181002.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/AutoUseCC.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819181726.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/ManaManger.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819182036.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/AutoWE.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819182359.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/AutoRSafeLife.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819182546.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/AutoW.png
+https://github.com/zamipefuve/xiaohei/raw/master/QQ%E6%88%AA%E5%9B%BE20190819182702.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/AutoE.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819182908.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/AutoE%20IncommingCC.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819183332.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/Flee.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819183516.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/AutoEW.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819183712.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/AutoR.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819184028.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/Gabclose.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819184140.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/Lasthit.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819184305.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/Misc.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819184434.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/JungleSteal.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190819184614.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/JungleClearScriptLogo.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190820162149.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/ActivatorScriptLogo.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190820162648.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/PredScriptLogo.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190820162931.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/Engage.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190820163602.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/AutoWImmobile.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190820164242.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/AutoQImmobile.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190820164447.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/KeySettings.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190820164617.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/QSettings.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190820164757.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/WSettings.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190820164913.png
+https://raw.githubusercontent.com/Pussykate/GoS/master/PageImage/RSettings.png
+https://raw.githubusercontent.com/zamipefuve/xiaohei/master/QQ%E6%88%AA%E5%9B%BE20190820165000.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
